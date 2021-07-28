@@ -1,0 +1,11 @@
+{
+    "env": {
+        "WOO_URL": "https://lavinseafoods.in",
+        "CONSUMER_KEY": "ck_8fbd4e6dfddbf03ef5fa2178d78331e1265ce87f",
+        "CONSUMER_SECRET": "cs_537ef304f17ab8efbc9866e0b7451e7cd2f7e198",
+        "VERSION": "wc/v3",
+        "DIALECT": "mysql",
+        "HOST": "localhost"
+
+    }
+}
